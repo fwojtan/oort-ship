@@ -1,3 +1,3 @@
 ## fwojtan's oort.rs code
 WIP
-For Rust [oort](oort.rs) programming game.
+For Rust [oort](https://oort.rs) programming game.
